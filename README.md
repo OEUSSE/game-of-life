@@ -1,2 +1,2 @@
 # game-of-life
-Juego de la vide hecho en python
+Juego de la vida hecho en python
